@@ -1,0 +1,14 @@
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\bin\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.exe
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\bin\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.deps.json
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\bin\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.runtimeconfig.json
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\bin\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.runtimeconfig.dev.json
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\bin\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.dll
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\bin\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.pdb
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\obj\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\obj\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\obj\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\obj\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.AssemblyInfo.cs
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\obj\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\obj\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.dll
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\obj\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.pdb
+C:\temp\ws-vs2019\AulaSobreInterfaceExercicio\AulaSobreInterfaceExercicio\obj\Debug\netcoreapp3.1\AulaSobreInterfaceExercicio.genruntimeconfig.cache
